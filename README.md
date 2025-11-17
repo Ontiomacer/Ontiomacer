@@ -4,7 +4,7 @@
 <br>
 
 <h1 align="center">👋 Hey, I'm <span style="color:#34D399;">Tejas Tiwari</span>(Ontiomacer)</h1>
-<img src="https://raw.githubusercontent.com/Ontiomacer/Ontiomacer/main/cover.png" width="100%" />
+
 
 <h3 align="center">Cybersecurity | Cloud | AI | Full-Stack Developer</h3>
 
