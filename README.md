@@ -1,7 +1,5 @@
 <!-- Banner -->
-<div align="center">
-  <img src="https://i.imgur.com/8QfQ7oK.png" width="100%" alt="Tejas Tiwari Banner"/>
-</div>
+
 
 <br>
 
