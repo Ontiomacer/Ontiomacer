@@ -1,101 +1,111 @@
-<!-- Header -->
-<h1 align="center">👋 Hi, I'm <strong>Tejas Tiwari</strong></h1>
-<h3 align="center">Cybersecurity | Cloud | Full-Stack | AI Systems</h3>
+<!-- Banner -->
+<div align="center">
+  <img src="https://i.imgur.com/8QfQ7oK.png" width="100%" alt="Tejas Tiwari Banner"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ontiomacer&style=for-the-badge&color=1e90ff" />
-</p>
+<br>
+
+<h1 align="center">👋 Hey, I'm <span style="color:#34D399;">Tejas Tiwari</span>(Ontiomacer)</h1>
+<h3 align="center">Cybersecurity | Cloud | AI | Full-Stack Developer</h3>
+
+<div align="center">
+  
+[![First Design](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://cloud.layer5.io/user/046e00b4-ed65-4bdb-9e33-cf2f286fe46a?tab=badges&badge=first-design)
+
+</div>
 
 ---
 
 ## 🚀 About Me  
-I’m a passionate **cybersecurity & software engineer** who builds secure systems, cloud-native architectures, threat-intel tools, and scalable web applications.  
-I enjoy exploring:
+I’m **Tejas Tiwari**, a passionate developer deeply involved in:
 
-- 🔐 Penetration Testing & Web Security  
-- 🌩️ Cloud-Native + DevOps tooling  
-- 📊 Threat Intelligence & Monitoring  
-- 🤖 AI Agents & Behavioral Detection Models  
-- ⚙️ Embedded Systems (ESP32, IoT Hardware)
+- 🔐 Cybersecurity & Threat Intelligence  
+- ☁️ Cloud-Native Architectures  
+- ⚙️ Web Development (TypeScript, React, Next.js)  
+- 🤖 AI, ML & Automation  
+- 🕹️ System Design & Infrastructure  
 
-I believe in **clean architecture, automation, and building systems that scale securely.**
+I love building meaningful systems, solving complex problems, and contributing to open-source.
 
 ---
 
-## 🧠 Tech Stack  
+## 📊 GitHub Performance
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=O ntiomacer&show_icons=true&theme=radical" width="46%"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=O ntiomacer&theme=radical" width="46%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ontiomacer&layout=compact&theme=radical" width="46%"/>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
 ### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,bash,c,java,go" />
-</p>
+<div align="left">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
 
 ### **Frameworks & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,fastapi,express,flask,vite" />
-</p>
+<div align="left">
 
-### **Cybersecurity & Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,aws,azure,docker,kubernetes,nginx,cloudflare" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Meshery](https://img.shields.io/badge/Meshery-00B39F?style=for-the-badge&logo=meshery&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
-</p>
+</div>
 
 ---
 
-## 🏗 Featured Projects  
-### 🔹 **Cloud-Native Fraud Detection System**  
-Behavior-based credit card risk analysis with LLM integration and geolocation monitoring.
+## 🔥 Featured Projects
 
-### 🔹 **Threat Intelligence Hub**  
-Frontend-only TI orchestrator integrating VirusTotal, Shodan, AbuseIPDB, and custom rule engines.
+### 🔭 **Unity-Sphere1**
+Advanced Unity-based 3D engine prototype.  
+⭐ TypeScript
 
-### 🔹 **Meshery Cloud Architecture (Playground Project)**  
-NGINX → API → Pod → Azure MySQL end-to-end cloud-native design.
+### 🛰️ **Orbited Satellite Platform**
+AI-powered satellite analytics platform.  
+⭐ React + TypeScript + AI
 
-### 🔹 **ESP32 Secure BLE Lock System**  
-Hardware-level authentication & OTA secure firmware pipeline.
+### 🧠 **Cyber-Scripts**
+Jupyter notebook collection for cybersecurity & ML automation.
 
----
-
-## 📊 GitHub Performance Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ontiomacer&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ontiomacer&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ontiomacer&layout=compact&theme=tokyonight" />
-</p>
+### 🎨 **SkillSwap Web App**
+Skill-sharing platform with analytics dashboards.
 
 ---
 
-## 🏆 Achievements & Certifications  
-- 🌐 Meshery Beginner Badge — Layer5  
-- 🔒 Web Security Labs (PortSwigger)  
-- 🛡 Network Security Analysis — Metasploitable2  
-- 🎖 Espressif ESP32 Dev Projects  
-- 🤖 Intel AI Hackathon Participant  
-- 🎯 CCNA Preparation Track
+## ✨ Badges & Achievements
+
+- 🏆 Meshery **First-Design Badge**  
+- ☁️ Cloud-Native Explorer  
+- 🔐 Cybersecurity & Pentesting Enthusiast  
+- 🧩 Contributor to multiple open-source projects  
 
 ---
 
-## 🌍 Connect With Me  
-<p>
-  <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://ontiomacer.github.io"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
+## 📬 Connect With Me  
+<div align="left">
+
+📧 Email: **tejastiwari.tech@gmail.com**  
+🐙 GitHub: [Ontiomacer](https://github.com/Ontiomacer)
+
+</div>
 
 ---
 
-## ⚡ Current Focus  
-- Building full-stack, secure cloud-native apps  
-- Improving skills in AI-driven threat detection  
-- Contributing to open-source (Meshery & more)  
+<div align="center">
 
----
+### ⭐ *Thanks for visiting my profile! Feel free to star my projects!*
 
-<p align="center"><strong>Thanks for visiting my profile!</strong> 🚀</p>
+</div>
