@@ -31,7 +31,7 @@ I love building meaningful systems, solving complex problems, and contributing t
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ontiomacer&show_icons=true&theme=radical" width="46%"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ontiomacer&theme=radical" width="46%"/>
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ontiomacer&layout=compact&theme=radical" width="46%"/>
 
