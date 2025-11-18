@@ -97,7 +97,7 @@ Skill-sharing platform with analytics dashboards.
 ## 📬 Connect With Me  
 <div align="left">
 
-📧 Email: **tejastiwari.tech@gmail.com**  
+📧 Email: **tt160705@gmail.com**  
 🐙 GitHub: [Ontiomacer](https://github.com/Ontiomacer)
 
 </div>
